@@ -48,7 +48,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img link="https://www.google.com/url?sa=i&url=https%3A%2F%2Ft-t.dk%2Fgekko%2Fantlr-experience%2F&psig=AOvVaw03KbUVUtlh4E6omx59bMHV&ust=1699874450298000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCA3virvoIDFQAAAAAdAAAAABAI" title="ANTLR" alt="ANTLR" width="40" height="40"/>&nbsp;
 </div>
 
 ---
