@@ -52,6 +52,4 @@ Here are some ideas to get you started:
 
 ---
 ### :fire: My Stats :
-
----
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SaltyChef&theme=dark)](https://git.io/streak-stats)
